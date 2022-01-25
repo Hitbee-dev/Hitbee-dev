@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitbee-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitbee-dev&count_bg=%23E9C04C&title_bg=%23181717&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://www.instagram.com/hitbee_0584/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
 <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Hitbee-dev"><img alt="Github" src ="https://img.shields.io/badge/Git-181717.svg?&style=flat&logo=Git&logoColor=white"/></a>
@@ -26,7 +26,6 @@
     - 🏅 교내 라인트레이서 경진대회 금상 [2020-11-27]
     - 🥈 교내 라인트레이서 경진대회 은상 [2021-07-02]
     - 🥉 교내 스마트에너지 경진대회 우수상 [2020-12-23]
-<br/>
 
  # <center>🛠 Tech Stack 🛠</center>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/></a>
