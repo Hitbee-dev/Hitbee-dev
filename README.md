@@ -1,15 +1,8 @@
-<div>
-<div style="float: right;">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitbee-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
-<div style="float: left;">
 <a href="https://www.instagram.com/hitbee_0584/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
 <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Hitbee-dev"><img alt="Github" src ="https://img.shields.io/badge/Git-181717.svg?&style=flat&logo=Git&logoColor=white"/></a>
-</div>
-</div>
-<br/><br/>
+<br/>
 
 # <center>🙇‍♂️ Introduce 🙇‍♂️<center>
  - <a href="https://charm-aluminum-6c2.notion.site/Introduce-5c71abcdcb864af68e440893bf430d72">🙇‍♂️ Introduce - Notion</a><p></p>
