@@ -41,7 +41,11 @@
    - __Flutter__
      - 의료 Data I2C 통신
      - 의사 <-> 환자 간 채팅 기능
-  
+
+# <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
+ - [__C프로그래밍1__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
+ - [__디지털논리__ - *Repo*](https://github.com/Hitbee-dev/proteus)
+
 # <center>👨‍💻 Project & Award 🏆 <center>
  - 👨‍💻 __Project & Award__ 🏆 
     - [__전동킥보드 부정주차 방지 시스템__ - *Repo*](https://github.com/Hitbee-dev/stop_flutter)
