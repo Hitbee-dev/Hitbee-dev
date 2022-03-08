@@ -13,7 +13,6 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/terminal/terminal.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/visual-studio-code/visual-studio-code.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/zeplin/zeplin.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/figma/figma.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/c/c.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/python/python.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/flutter/flutter.png"></code>
