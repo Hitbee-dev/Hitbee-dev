@@ -36,12 +36,12 @@
 # <center>💼 Career 💼<center>
  - [__RobinICT__](http://robinict.co.kr/) [*2022-02~*]
    - __Nordic__
-     - Nordic기반 MCU 펌웨어 개발
-       - Temp Sensor
-       - ECG Sensor
-       - BlueTooth Sensor
+     - [__*I2C 통신*__] Nordic기반 MCU 펌웨어 개발
+       - [__*master*__] nRF52832 (BlueTooth Module)
+       - [__*slave*__] Temp Sensor
+       - [__*slave*__] ECG Sensor
    - __Flutter__
-     - 의료 Data I2C 통신
+     - [__*BLE 통신*__] 의료 Data 수신
      - 의사 <-> 환자 간 채팅 기능
 
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
