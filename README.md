@@ -38,9 +38,8 @@
    - [__*MAIN*__] __Setup/CS__
      - [__*Clean Part*__] 삼성/SK하이닉스 반도체 공정 자동화 설비 Setup/CS __*PM*__
    - [__*SUB*__] __Robot__
-     - [__*Clean Part*__] 삼성 디스플레이 공정 자동화 설비 ```__*3-Axis*__ Robot Teaching
+     - [__*Clean Part*__] 삼성 디스플레이 공정 자동화 설비 __*3-Axis*__ Robot Teaching
      - [__*Clean Part*__] 삼성/SK하이닉스 반도체 공정 자동화 설비 __*6-Axis*__ Robot Teaching
-
  - [__ROBINICT__](http://robinict.co.kr/) [*2022-02~*]
    - [__*MAIN*__] __Flutter__
      - [__*BLE 통신*__] 의료 Data 수신
@@ -50,7 +49,7 @@
        - [__*master*__] nRF52832 (BlueTooth Module)
        - [__*slave*__] Temp Sensor
        - [__*slave*__] ECG Sensor
-
+ 
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
  - [__C프로그래밍1__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
  - [__디지털논리__ - *Repo*](https://github.com/Hitbee-dev/proteus)
