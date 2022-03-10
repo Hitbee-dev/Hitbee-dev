@@ -33,16 +33,23 @@
 # <center>🙇‍♂️ Introduce 🙇‍♂️<center>
  - [🙇‍♂️ __Introduce - Notion__](https://charm-aluminum-6c2.notion.site/Introduce-5c71abcdcb864af68e440893bf430d72)
 
-# <center>💼 Career 💼<center>
- - [__RobinICT__](http://robinict.co.kr/) [*2022-02~*]
-   - __Nordic__
+# <center>💼 Careers 💼<center>
+ - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*]
+   - [__*MAIN*__] __Setup/CS__
+     - [__*Clean Part*__] 삼성/SK하이닉스 반도체 공정 자동화 설비 Setup/CS __*PM*__
+   - [__*SUB*__] __Robot__
+     - [__*Clean Part*__] 삼성 디스플레이 공정 자동화 설비 ```__*3-Axis*__ Robot Teaching
+     - [__*Clean Part*__] 삼성/SK하이닉스 반도체 공정 자동화 설비 __*6-Axis*__ Robot Teaching
+
+ - [__ROBINICT__](http://robinict.co.kr/) [*2022-02~*]
+   - [__*MAIN*__] __Flutter__
+     - [__*BLE 통신*__] 의료 Data 수신
+     - [__*Socket 통신*__] 의사 <-> 환자 간 채팅 기능
+   - [__*SUB*__] __Nordic__
      - [__*I2C 통신*__] Nordic기반 MCU 펌웨어 개발
        - [__*master*__] nRF52832 (BlueTooth Module)
        - [__*slave*__] Temp Sensor
        - [__*slave*__] ECG Sensor
-   - __Flutter__
-     - [__*BLE 통신*__] 의료 Data 수신
-     - 의사 <-> 환자 간 채팅 기능
 
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
  - [__C프로그래밍1__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
