@@ -51,7 +51,7 @@
        - [__*slave*__] ECG Sensor
  
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
- - [__C프로그래밍1__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
+ - [__C프로그래밍I__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
  - [__디지털논리__ - *Repo*](https://github.com/Hitbee-dev/proteus)
 
 # <center>👨‍💻 Project & Award 🏆 <center>
