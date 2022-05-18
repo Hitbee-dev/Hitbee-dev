@@ -3,6 +3,8 @@
 <a href="https://www.instagram.com/hitbee_0584/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
 <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Hitbee-dev"><img alt="Github" src ="https://img.shields.io/badge/Git-181717.svg?&style=flat&logo=Git&logoColor=white"/></a>
+<a href="https://velog.io/@kc0584-dev"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat&logo=Velog&logoColor=white"/></a>
+
 <br/>
 </div>
 <p></p>
