@@ -36,13 +36,13 @@
  - [🙇‍♂️ __Introduce - Notion__](https://charm-aluminum-6c2.notion.site/Introduce-5c71abcdcb864af68e440893bf430d72)
 
 # <center>💼 Careers 💼<center>
- - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*FULL TIME*__
+ - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*- FULL TIME*__
    - [__*MAIN*__] __Setup/CS__
      - [__*Clean Part*__] 삼성/SK하이닉스 반도체 공정 자동화 설비 Setup/CS __*PM*__
    - [__*SUB*__] __Robot__
      - [__*Clean Part*__] 삼성 디스플레이 공정 자동화 설비 __*3-Axis*__ Robot Teaching
      - [__*Clean Part*__] 삼성/SK하이닉스 반도체 공정 자동화 설비 __*6-Axis*__ Robot Teaching
- - [__ROBINICT__](http://robinict.co.kr/) [*2022-02~2022-06*] __*PART TIME*__
+ - [__ROBINICT__](http://robinict.co.kr/) [*2022-02~2022-06*] __*- PART TIME*__
    - [__*MAIN*__] __Flutter__
      - [__*BLE 통신*__] 의료 Data 수신
      - [__*Socket 통신*__] 의사 <-> 환자 간 채팅 기능
