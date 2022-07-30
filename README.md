@@ -33,8 +33,10 @@
 <p></p>
 
 # <center>🙇‍♂️ Introduce 🙇‍♂️<center>
- - [🙇‍♂️ __Introduce - Notion__](https://charm-aluminum-6c2.notion.site/Introduce-5c71abcdcb864af68e440893bf430d72)
- - [🙇‍♂️ __Introduce - Velog__](https://velog.io/@kc0584-dev/about)
+ - [🧑🏻‍ __Introduce - Velog__](https://velog.io/@kc0584-dev/about)
+ - [💁🏻‍♂️ __Introduce - Programmers__](https://career.programmers.co.kr/pr/ckimesw_9220)
+ - [🙇🏻‍♂️ __Introduce - Notion__](https://charm-aluminum-6c2.notion.site/Introduce-5c71abcdcb864af68e440893bf430d72)
+ 
 # <center>💼 Careers 💼<center>
  - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*- FULL TIME*__
    - [__*MAIN*__] __Setup/CS__
