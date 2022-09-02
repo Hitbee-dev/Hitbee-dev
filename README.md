@@ -60,7 +60,7 @@
 
 # <center>👨‍💻 Project & Award 🏆 <center>
  - 👨‍💻 __Project & Award__ 🏆 
-    - [__이슈닷(feat.에이닷)__ - *Repo*](https://github.com/Hitbee-dev/stop_flutter)
+    - [__이슈닷(feat.에이닷)__ - *Repo*](https://github.com/SKT-Phoenix/Phoenix)
         - 🏅 SKT FLYAI AI Challenger 1기 Hackaton 대상 [*2022-09-02*]
     - [__전동킥보드 부정주차 방지 시스템__ - *Repo*](https://github.com/Hitbee-dev/stop_flutter)
         - 🏅 교내 정보통신공학과 학술제 금상 [*2021-11-24*]
