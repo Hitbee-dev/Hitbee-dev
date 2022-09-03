@@ -76,6 +76,7 @@
     - [__대전광역시 오정동 농수산물시장 소상공인을 위한 프로젝트__ - *Repo*](https://github.com/Hitbee-dev/saojeong)
     - [__BLE Signal Generator__ - *Repo*](https://github.com/Hitbee-dev/ble_generator_flutter)
  - 🏆 __Other Award__
+    - 🏅 SKT FLYAI AI Challenger 1기 개인부문 대상 [*2022-09-02*]
     - 🏅 교내 제10회 공학페스티벌 대상 [*2020-12-10*]
     - 🏅 교내 IT분야 제10회 공학페스티벌 대상 [*2020-12-10*]
     - 🏅 교내 라인트레이서 경진대회 금상 [*2020-11-27*]
