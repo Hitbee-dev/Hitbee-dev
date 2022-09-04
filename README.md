@@ -12,10 +12,15 @@
  <div align=center>
     <h1> 🛠 Tech Stack 🛠 </h1>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/github/github.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/azure/azure.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/docker/docker.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/kubernetes/kubernetes.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/linux/linux.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/terminal/terminal.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/visual-studio-code/visual-studio-code.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/c/c.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/python/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/flask/flask.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/flutter/flutter.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/dart/dart.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/java/java.png"></code>
@@ -57,6 +62,10 @@
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
  - [__C프로그래밍I__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
  - [__디지털논리__ - *Repo*](https://github.com/Hitbee-dev/proteus)
+ - [__멀티미디어정보처리__ - *Repo*]()
+ - [__임베디드시스템__ - *Repo*]()
+ - [__C프로그래밍II__ - *Repo*]()
+ - [__마이크로프로세서__ - *Repo*]()
 
 # <center>👨‍💻 Project & Award 🏆 <center>
  - 👨‍💻 __Project & Award__ 🏆 
@@ -89,3 +98,4 @@
     
  - __SKT FLYAI 아카데미 1기__ [*2022-06-27 ~ 2022-09-02*]
     - SKT 보라매사옥 AI TECH LAB 인공지능 아카데미
+    - `MicroSoft Azure`, `Docker`, `Kubernetes`, `ML/DL`, `Flask`등의 교육을 400시간동안 진행
