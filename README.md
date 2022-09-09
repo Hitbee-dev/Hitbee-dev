@@ -62,7 +62,7 @@
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
  - [__C프로그래밍I__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
  - [__디지털논리__ - *Repo*](https://github.com/Hitbee-dev/proteus)
- - [__멀티미디어정보처리__ - *Repo*]()
+ - [__멀티미디어정보처리__ - *Repo*](https://github.com/Hitbee-dev/OpenCV-Python)
  - [__임베디드시스템__ - *Repo*]()
  - [__C프로그래밍II__ - *Repo*]()
  - [__마이크로프로세서__ - *Repo*]()
