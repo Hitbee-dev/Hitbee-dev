@@ -65,7 +65,6 @@
  - [__멀티미디어정보처리__ - *Repo*](https://github.com/Hitbee-dev/OpenCV-Python)
  - [__임베디드시스템__ - *Repo*](https://github.com/Hitbee-dev/embedded_system)
  - [__C프로그래밍II__ - *Repo*](https://github.com/Hitbee-dev/c_programming_two)
- - [__마이크로프로세서__ - *Repo*]()
 
 # <center>👨‍💻 Project & Award 🏆 <center>
  - 👨‍💻 __Project & Award__ 🏆 
