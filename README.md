@@ -36,10 +36,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kc0584)](https://solved.ac/kc0584/)
 </div>
 <p></p>
-
-# <center>🙇‍♂️ Introduce 🙇‍♂️<center>
- - [🧑🏻‍ __Introduce - Velog__](https://velog.io/@kc0584-dev/about)
- - [💁🏻‍♂️ __Introduce - Programmers__](https://career.programmers.co.kr/pr/ckimesw_9220)
  
 # <center>💼 Careers 💼<center>
  - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*- FULL TIME*__
