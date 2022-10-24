@@ -92,4 +92,4 @@
     
  - __SKT FLYAI 아카데미 1기__ [*2022-06-27 ~ 2022-09-02*]
     - SKT 보라매사옥 AI TECH LAB 인공지능 아카데미
-    - `MicroSoft Azure`, `Docker`, `Kubernetes`, `ML/DL`, `Flask`등의 교육을 400시간동안 진행
+    - `MicroSoft Azure`, `Docker`, `Kubernetes`, `ML/DL`, `Flask`, `DevOps`등의 교육을 400시간동안 진행
