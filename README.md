@@ -20,6 +20,8 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/visual-studio-code/visual-studio-code.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/c/c.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/python/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/tensorflow/tensorflow.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/pytorch/pytorch.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/flask/flask.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/flutter/flutter.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/dart/dart.png"></code>
