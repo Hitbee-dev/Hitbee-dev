@@ -38,7 +38,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kc0584)](https://solved.ac/kc0584/)
 </div>
 <p></p>
- 
+
+<!--
 # <center>💼 Careers 💼<center>
  - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*- FULL TIME*__
    - [__*MAIN*__] __Setup/CS__
@@ -99,3 +100,4 @@
  - __SKT FLYAI 아카데미 1기__ [*2022-06-27 ~ 2022-09-02*]
     - SKT 보라매사옥 AI TECH LAB 인공지능 아카데미
     - `MicroSoft Azure`, `Docker`, `Kubernetes`, `ML/DL`, `Flask`, `DevOps`등의 교육을 400시간동안 진행
+-->
