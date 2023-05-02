@@ -39,7 +39,7 @@
 </div>
 <p></p>
 
-<!--
+<!-- 
 # <center>💼 Careers 💼<center>
  - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*- FULL TIME*__
    - [__*MAIN*__] __Setup/CS__
@@ -56,7 +56,9 @@
        - [__*master*__] nRF52832 (BlueTooth Module)
        - [__*slave*__] Temp Sensor
        - [__*slave*__] ECG Sensor
- 
+ - [__KONANTECH__](https://www.konantech.com/) [*2023-05~*] __*- FULL TIME*__
+   - [__*MAIN*__] __Computer Vision__ (비전 AI 연구소, 융합 AI 부서, VR(Vision Recognition)팀)
+
 # <center>👨‍🏫 Teaching Assistant 👨‍🏫<center>
  - [__C프로그래밍I__ - *Repo*](https://github.com/Hitbee-dev/c_programming_one)
  - [__디지털논리__ - *Repo*](https://github.com/Hitbee-dev/proteus)
