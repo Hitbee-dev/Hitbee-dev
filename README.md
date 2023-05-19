@@ -29,20 +29,11 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/android/android.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/ios/ios.png"></code>
     <p></p>
- 
-<!-- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/></a>
-<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=plastic&logo=Flutter&logoColor=white"/></a>
-<img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=plastic&logo=Dart&logoColor=white"/></a>
-<img alt="Android" src ="https://img.shields.io/badge/Android-81C147.svg?&style=plastic&logo=Android&logoColor=white"/></a>
-<img alt="IOS" src ="https://img.shields.io/badge/IOS-000000.svg?&style=plastic&logo=IOS&logoColor=white"/></a> -->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kc0584)](https://solved.ac/kc0584/)
 </div>
 <p></p>
 
-- [**EasyOCR Contributor** - *2023-05-18 | 101th*](https://github.com/JaidedAI/EasyOCR/pull/920)
-
-
-<!-- 
 # <center>💼 Careers 💼<center>
  - [__DEVICEENG__](http://deviceeng.co.kr/) [*2017-02~2020-03*] __*- FULL TIME*__
    - [__*MAIN*__] __Setup/CS__
@@ -99,10 +90,11 @@
     - 🥉 교내 스마트에너지 경진대회 __우수상__ [*2020-12-23*]
 
 # <center> 💁 Other 🙋 <center>
- - __SK플래닛(주), (사)소프트웨어교육혁신센터 Smarteen SW아카데미__ [*2020-06-23*]
-    - 세천초등학교 학생들을 대상으로 Scratch 프로그래밍 교육(멘토링)을 진행
+ - [**EasyOCR Contributor** [*2023-05-18 | 101th*]](https://github.com/JaidedAI/EasyOCR/pull/920)
     
  - __SKT FLYAI 아카데미 1기__ [*2022-06-27 ~ 2022-09-02*]
     - SKT 보라매사옥 AI TECH LAB 인공지능 아카데미
     - `MicroSoft Azure`, `Docker`, `Kubernetes`, `ML/DL`, `Flask`, `DevOps`등의 교육을 400시간동안 진행
--->
+ 
+ - __SK플래닛(주), (사)소프트웨어교육혁신센터 Smarteen SW아카데미__ [*2020-06-23*]
+    - 세천초등학교 학생들을 대상으로 Scratch 프로그래밍 교육(멘토링)을 진행
