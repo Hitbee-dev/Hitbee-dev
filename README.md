@@ -29,7 +29,7 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/android/android.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/ios/ios.png"></code>
     <p></p>
-    
+ 
 <!-- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/></a>
 <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=plastic&logo=Flutter&logoColor=white"/></a>
 <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=plastic&logo=Dart&logoColor=white"/></a>
@@ -38,6 +38,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kc0584)](https://solved.ac/kc0584/)
 </div>
 <p></p>
+
+- [**EasyOCR Contributor** - *2023-05-18 | 101th*](https://github.com/JaidedAI/EasyOCR/pull/920)
+
 
 <!-- 
 # <center>💼 Careers 💼<center>
