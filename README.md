@@ -26,3 +26,4 @@
 - [**SKT FLYAI** - *2022-06-27 ~ 2022-09-02 | 1st*](https://github.com/SKT-Phoenix/Phoenix)
 - [**EasyOCR Contributor** - *2023-05-18 | 101th*](https://github.com/JaidedAI/EasyOCR/pull/920)
 - [**LabelConvert Contributor** - *2024-03-28*](https://github.com/RapidAI/LabelConvert/pull/10)
+- [**Co-DETR Contributor** - *2024-04-22*](https://github.com/Sense-X/Co-DETR/pull/123)
