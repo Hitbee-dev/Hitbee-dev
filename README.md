@@ -27,3 +27,4 @@
 - [**EasyOCR Contributor** - *2023-05-18 | 101th*](https://github.com/JaidedAI/EasyOCR/pull/920)
 - [**LabelConvert Contributor** - *2024-03-28*](https://github.com/RapidAI/LabelConvert/pull/10)
 - [**Co-DETR Contributor** - *2024-04-22*](https://github.com/Sense-X/Co-DETR/pull/123)
+- [**RT-DETR Contributor** - *2024-07-29*](https://github.com/lyuwenyu/RT-DETR/pull/395)
