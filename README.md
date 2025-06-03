@@ -1,14 +1,22 @@
 <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitbee-dev&count_bg=%23E9C04C&title_bg=%23181717&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href=""><img alt="Instagram" src ="https://komarev.com/ghpvc/?username=Hitbee-dev&color=yellow"/></a>
 <a href="https://www.instagram.com/hitbee_0584/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:ckim.esw@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Hitbee-dev"><img alt="Github" src ="https://img.shields.io/badge/Git-181717.svg?&style=flat&logo=Git&logoColor=white"/></a>
 <a href="https://velog.io/@kc0584-dev"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat&logo=Velog&logoColor=white"/></a>
 
-<br/>
-</div>
-<p></p>
+``` text
+██╗  ██╗██╗████████╗██████╗ ███████╗███████╗    ██████╗ ███████╗██╗   ██╗
+██║  ██║██║╚══██╔══╝██╔══██╗██╔════╝██╔════╝    ██╔══██╗██╔════╝██║   ██║
+███████║██║   ██║   ██████╔╝█████╗  █████╗█████╗██║  ██║█████╗  ██║   ██║
+██╔══██║██║   ██║   ██╔══██╗██╔══╝  ██╔══╝╚════╝██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║  ██║██║   ██║   ██████╔╝███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
+╚═╝  ╚═╝╚═╝   ╚═╝   ╚═════╝ ╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝
+```
 
+</div>
+
+<p></p>
  <div align=center>
     <h1> 🛠 Tech Stack 🛠 </h1>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/00be00e3051bfc3bb008e4db83382b3ac55f22db/topics/docker/docker.png"></code>
